@@ -1,37 +1,71 @@
-<h1 align="center">Hi 👋, I'm James Levi</h1>
-<h3 align="center">Computer Science @ Florida Atlantic University | GPA: 3.99</h3>
+<h1 align="center">James Levi</h1>
+<h3 align="center">Master’s in Artificial Intelligence at Florida Atlantic University</h3>
+<p align="center">GPA 3.99</p>
 
 ---
 
-### 🚀 Tech Stack
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+## Focus
+Applied machine learning  
+AI driven systems and automation  
+Backend and full stack engineering  
 
 ---
 
-### 💼 About Me
-- 📚 **Junior** studying Computer Science at **Florida Atlantic University**
-- 🏆 Maintaining a **3.99 GPA** while working on projects in **AI, automation**, and **full-stack development**
-- 🚀 Building tools like **AI Agents**, **Web Apps**, and enhancing **developer workflows**
+## Technical Stack
+
+**Languages**  
+C++  
+Python  
+Java  
+JavaScript  
+TypeScript  
+
+**Frameworks and Libraries**  
+React  
+Next.js  
+Node.js  
+Flask  
+Tailwind CSS  
+
+**Data and Infrastructure**  
+PostgreSQL  
+MongoDB  
+Supabase  
+REST APIs  
+
+**AI and ML**  
+LLMs  
+Evaluation pipelines  
+Fine tuning workflows  
+Agent orchestration  
+Data mining and classical ML  
 
 ---
 
-### 🧰 Tools I Use
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![n8n](https://img.shields.io/badge/-n8n-0B141A?style=flat&logo=n8n&logoColor=orange)
+## Experience Summary
+AI and ML engineering through internships and applied research  
+Built production level agentic workflows and internal automation tools  
+Led large scale technical projects with real users and real constraints  
+Strong emphasis on ownership reliability and follow through  
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameslevi123/)
+## Current Work
+AI systems for automation and decision support  
+Machine learning pipelines for validation and classification  
+Full stack applications with authenticated backends  
 
 ---
 
+## Tools
+Git  
+GitHub  
+VS Code  
+n8n  
+Linux based development environments  
+
+---
+
+## Links
+LinkedIn  
+https://www.linkedin.com/in/jameslevi123/
